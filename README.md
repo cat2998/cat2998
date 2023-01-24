@@ -2,21 +2,16 @@
 jihyun  </br>
 </h1>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cat2998&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats) -->
+<h4 align="left"> Hello, I'm Jihyun Kwon! </h4>
+<p align="left">
+I am a student of 42 Seoul. </br>
+interested in C, C++ </br>
+</p>
+<p align="left">
+Take a look at the blog I writed : 
+
+[![Gmail Badge](https://img.shields.io/badge/jihyun_wiki-black?style=flat-square&logo=Tistory&logoColor=white&link=https://jihyun-wiki.tistory.com)](https://jihyun-wiki.tistory.com)
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cat2998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**Devdha/Devdha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cat2998&theme=buefy&show_icons=true&hide=contribs)
