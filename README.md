@@ -2,10 +2,8 @@
 jihyun  </br>
 </h1>
 
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cat2998&layout=compact" align="center" style="width: 100%" />
-</td></tr></table> 
-</br> 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cat2998)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cat2998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Devdha/Devdha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
