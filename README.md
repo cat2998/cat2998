@@ -11,7 +11,7 @@ interested in C, C++ </br>
 Take a look at the blog I writed : 
 </p>
 
-[![Gmail Badge](https://img.shields.io/badge/jihyun_wiki-black?style=flat-square&logo=Tistory&logoColor=white&target="_blank"&link=https://jihyun-wiki.tistory.com)](https://jihyun-wiki.tistory.com)
+[![Gmail Badge](https://img.shields.io/badge/jihyun_wiki-black?style=flat-square&logo=Tistory&logoColor=white&target=_blank&link=https://jihyun-wiki.tistory.com)](https://jihyun-wiki.tistory.com)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cat2998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
