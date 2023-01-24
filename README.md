@@ -3,15 +3,8 @@
 </div>
 
 <h1 align="center">
-🐯 d-ha  </br>
-(means dha hi!)
+jgwon  </br>
 </h1>
-  
-<h3 align="center"> Hello, I'm Donghun Ha! </h3>
-<p align="center">
-I am a student of 42 Seoul from South Korea. 🇰🇷 </br>
-I am interested in Server side programming. </br> </br>
-</p> </br>
 
 <h2 align="center"><b>🛠 Tech Stack</b></h2>
 <p align="center">
@@ -20,18 +13,18 @@ I am interested in Server side programming. </br> </br>
 <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> -->
 <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a> </br> -->
 <!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> -->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> -->
 <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> </br> -->
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>  </p> </br>
+<!-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>  </p> </br> -->
 
 <h2 align="center"><b>📞 Contact</b></h2>
 <p align="center">
-<a href="https://github.com/Devdha" target="_blank">
+<!-- <a href="https://github.com/Devdha" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> -->
 <!-- /a>
 <a href="donghun.dev@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-%23000000.svg?&style=for-the-badge&logo=Gmail&logoColor=white&color=EA4335 alt=instagram style="margin-bottom: 5px;" />
