@@ -1,7 +1,7 @@
-<h1 align="center">
+<!-- <h1 align="center">
 jihyun  </br>
 </h1>
-
+ -->
 <h4 align="left"> Hello, I'm Jihyun Kwon! </h4>
 <p align="left">
 I am a student of 42 Seoul. </br>
