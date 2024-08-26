@@ -4,10 +4,6 @@ jihyun  </br>
  -->
 <h4 align="left"> Hello, I'm Jihyun Kwon! </h4>
 <p align="left">
-I am a student of 42 Seoul. </br>
-interested in C, C++ </br>
-</p>
-<p align="left">
 Take a look at the blog I writed : 
 </p>
 
