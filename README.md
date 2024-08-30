@@ -2,7 +2,7 @@
 jihyun  </br>
 </h1>
  -->
-<h4 align="left"> Hello, I'm Jihyun Kwon! </h4>
+<h4 align="left"> Hello, I'm Kwon Jihyun! </h4>
 <p align="left">
 Take a look at the blog I writed : 
 </p>
