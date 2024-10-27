@@ -1,6 +1,6 @@
 <h4 align="left"> Hello, I'm Kwon Jihyun! </h4>
 <p align="left">
-I'm interested in c/c++.
+I'm interested in c/c++<br>
 Take a look at the blog I writed : 
 </p>
 
